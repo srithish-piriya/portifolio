@@ -16,4 +16,3 @@
 </ul><h2>Project Status</h2>
 <hr><p>completed</p>
   </body>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
