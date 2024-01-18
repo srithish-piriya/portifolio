@@ -9,5 +9,6 @@
 <li>CSS</li>
 </ul><ul>
 <li>JavaScript</li>
+  <img align="center" width="100%" src="./assets/works/sample.png" alt="srithis-piriya" />
 </ul><h2>Project Status</h2>
 <hr><p>completed</p>
